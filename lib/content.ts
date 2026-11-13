@@ -15,7 +15,7 @@ export const clinic = {
   tagline: "Family bakery · Willis, Texas",
   phoneDisplay: "",
   phoneTel: "",
-  address: "13675 Cake Lane, Willis, TX 77356",
+  address: "13675 Cake Lane, Willis, TX 77378",
   area: "Willis, TX",
   mapsUrl:
     "https://www.google.com/maps/search/?api=1&query=Too+Sweet+Custom+Cakes+%26+Cookies+Willis+TX",

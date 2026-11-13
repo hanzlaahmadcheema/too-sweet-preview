@@ -398,7 +398,7 @@ export default function HomePage() {
             </p>
             <p className="mt-3 flex items-start gap-3 text-muted">
               <MapPinIcon className="mt-1 h-5 w-5 shrink-0" aria-hidden="true" />
-              13675 Cake Lane, Willis, TX 77356. Pickup in Willis; delivery or meet-up can be arranged.
+              13675 Cake Lane, Willis, TX 77378. Pickup in Willis; delivery or meet-up can be arranged.
             </p>
             <p className="mt-3 flex items-start gap-3 text-muted">
               <ClockIcon className="mt-1 h-5 w-5 shrink-0" aria-hidden="true" />

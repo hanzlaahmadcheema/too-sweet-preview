@@ -26,7 +26,7 @@ export function Footer() {
           </p>
           <p className="mt-3 flex items-start gap-2 text-[0.95rem] leading-relaxed">
             <MapPinIcon className="mt-1 h-4 w-4 shrink-0" aria-hidden="true" />
-            13675 Cake Lane, Willis, TX 77356 — pickup in Willis; delivery or meet-up arranged by DM.
+            13675 Cake Lane, Willis, TX 77378 — pickup in Willis; delivery or meet-up arranged by DM.
           </p>
           <p className="mt-3 flex items-center gap-2 text-[0.95rem]">
             <ChatBubbleLeftRightIcon className="h-4 w-4 shrink-0" aria-hidden="true" />
